@@ -2,7 +2,7 @@
 Pursuing Masters in Business Analytics with Major in Data Science at The University of Texas at Dallas.
 
 - 🔭 I’m currently working on the subject--Opioid Crisis in the U.S.(Dataset recently released by The Washington Post)
-- 👀 I’m interested in Data science, Visual tools, Machine Learning
+- 👀 I’m interested in Business Intelligence, Data science, Data Visual tools, Machine Learning
 - 🌱 I’m currently learning Big Data and Natural language Processing
 - 💞️ I’m looking to collaborate on Projects(related to trends in the market)
 - 📫 How to reach me: shardulmunde04@gmail.com
