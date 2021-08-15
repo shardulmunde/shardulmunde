@@ -1,5 +1,5 @@
 # Hello folks! 👋, I am Shardul,
-Pursuing Masters in Business Analytics with Major in Data Science at The University of Texas at Dallas.
+Recent Masters Graduate in Business Analytics with Major in Data Science at The University of Texas at Dallas.
 
 - 🔭 I’m currently working on the subject--Opioid Crisis in the U.S.(Dataset recently released by The Washington Post)
 - 👀 I’m interested in Business Intelligence, Data science, Data Visual tools, Machine Learning
