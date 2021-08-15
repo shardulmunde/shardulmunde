@@ -7,6 +7,7 @@ Pursuing Masters in Business Analytics with Major in Data Science at The Univers
 - 💞️ I’m looking to collaborate on Projects(related to trends in the market)
 - 📫 How to reach me: shardulmunde04@gmail.com
 - ✍️ My LinkedIn Profile: https://www.linkedin.com/in/shardul-munde/
+- 🖍️ My Tableau Profile: https://public.tableau.com/app/profile/shardulmunde21
 
  ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
